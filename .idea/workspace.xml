@@ -44,8 +44,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="75">
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -161,7 +161,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="128" />
     <option name="y" value="52" />
     <option name="width" value="1043" />
     <option name="height" value="833" />
@@ -748,7 +748,7 @@
       <updated>1487183254415</updated>
       <workItem from="1487183264340" duration="3666000" />
       <workItem from="1487187852107" duration="204000" />
-      <workItem from="1487189168228" duration="1393000" />
+      <workItem from="1487189168228" duration="1987000" />
     </task>
     <servers />
   </component>
@@ -770,10 +770,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5263000" />
+    <option name="totallyTimeSpent" value="5857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="52" width="1043" height="833" extended-state="5" />
+    <frame x="128" y="52" width="1043" height="833" extended-state="5" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1047,8 +1047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="75">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding />
         </state>
       </provider>
