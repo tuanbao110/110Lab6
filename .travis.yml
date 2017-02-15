@@ -1,7 +1,6 @@
+before_install:
+   - sudo apt-get updateruby
+sudo: required
 language: ruby
 rvm:
- - 2.2
-  - jruby
-   - rbx-2
-   # uncomment and edit the following line if your project needs to run something other than `rake`:
-   # script: bundle exec rspec spec
+  - install jruby rbx-2 2.2
