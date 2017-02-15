@@ -1,3 +1,5 @@
+before_install:
+  - sudo apt-get update
 sudo: required
 nguage: ruby
 rvm:
