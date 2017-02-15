@@ -1,3 +1,4 @@
+sudo: required
 nguage: ruby
 rvm:
  - 2.2
