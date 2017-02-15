@@ -3,7 +3,7 @@ before_install:
 sudo: required
 nguage: ruby
 rvm:
-  - install -jruby -rbx-2 -2.2
+  - install jruby rbx-2 2.2
  #- 2.2
  #- jruby
  #- rbx-2
