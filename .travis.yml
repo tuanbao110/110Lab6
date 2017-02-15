@@ -1,5 +1,5 @@
 before_install:
-   - sudo apt-get updateruby
+   - sudo apt-get update
 sudo: required
 language: ruby
 rvm:
